@@ -1,0 +1,14 @@
+{
+  "name": "voicehack",
+  "version": "1.0.0",
+  "description": "voice hack sample for GoogleHome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voice"
+  ],
+  "author": "ItinoseSan",
+  "license": "MIT"
+}
